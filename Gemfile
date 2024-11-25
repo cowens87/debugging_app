@@ -9,7 +9,7 @@ gem "jsonapi-serializer"
 gem "importmap-rails"
 gem "jbuilder"
 gem "pg", "~> 1.1"
-gem "puma", "~> 6.0"
+gem "puma", "~> 6.5"
 gem "rails", "~> 7.2.1"
 gem "turbo-rails"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
